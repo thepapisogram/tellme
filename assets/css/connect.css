@@ -1,0 +1,20 @@
+#page{
+    background: url('../images/connect_bg.jpg')!important;
+    background-size: contain;
+}#hr1{
+    border: 3px solid #000000cc;
+    border-radius: 10px;
+    width: 100px;
+}#tci{
+    width: 50px;
+    height: 50px;
+}#tcl{
+    background: #ffffffaa;
+}.tcf{
+    height: max-content
+}.form-control{
+    /* box-shadow: none!important; */
+    border-radius: 5px!important;
+}label{
+    font-size: 17px;
+}

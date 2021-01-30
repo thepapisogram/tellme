@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{ font-family: 'Hind Siliguri', sans-serif }
+.curl{ font-family: 'Pacifico', cursive }
+.y-scroll{ overflow-y: auto }
